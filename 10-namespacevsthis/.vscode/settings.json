@@ -5,6 +5,6 @@
     "workbench.colorTheme": "One Dark Pro Darker",
     "workbench.iconTheme": "vscode-icons",
     "files.associations": {
-        "iostream": "cpp"
+        "ostream": "cpp"
     },
 }

@@ -4,7 +4,4 @@
     "terminal.integrated.fontSize": 14,
     "workbench.colorTheme": "One Dark Pro Darker",
     "workbench.iconTheme": "vscode-icons",
-    "files.associations": {
-        "iostream": "cpp"
-    },
 }
